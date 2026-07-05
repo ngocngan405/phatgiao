@@ -1,0 +1,6 @@
+{
+  "name": "Phật Giáo VN",
+  "description": "Ứng dụng chia sẻ Phật giáo Việt Nam: kinh sách, bài giảng thuyết pháp, lịch sự kiện và trợ lý Phật Pháp AI tĩnh tại.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
